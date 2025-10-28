@@ -1,6 +1,6 @@
 # IronCryptor
 
-An advanced file cryptor project.
+An simple file cryptor project.
 
 ---
 
