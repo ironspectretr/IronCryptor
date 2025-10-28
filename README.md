@@ -63,6 +63,7 @@ This section outlines the planned features and long-term vision for the IronCryp
 *   İ18 language update.
 *   Own designed icon and UI icons.
 *   Keyfile logs.
+*   Advanced GUI errors.
 
 ---
 
