@@ -60,9 +60,9 @@ python icryptor_cli.py
 
 This section outlines the planned features and long-term vision for the IronCryptor project. Please fill the placeholders below with your specific development goals.
 
-*   [HEDEF 1: Buraya gelecekteki bir özelliği veya iyileştirmeyi yazın.]
-*   [HEDEF 2: Buraya kullanıcı geri bildirimlerine dayalı bir geliştirmeyi yazın.]
-*   [HEDEF 3: Buraya projenin uzun vadeli vizyonunu yazın.]
+*   İ18 language update.
+*   Own designed icon and UI icons.
+*   Keyfile logs.
 
 ---
 
