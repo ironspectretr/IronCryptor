@@ -1,0 +1,9 @@
+# IronCryptor Project Requirements
+
+# GUI Framework
+# PySide6 (Qt for Python) for the graphical user interface
+PySide6
+
+# Core Cryptography Library
+# Used for AES-256 GCM encryption and key derivation (PBKDF2)
+cryptography
