@@ -45,7 +45,7 @@ The project is structured to provide both a command-line interface (CLI) and a p
 
 ### Running the GUI
 ```bash
-python ironcryptor_guiSide6.py
+python ironcryptor_gui.py
 # If you renamed the file:
 # python ironcryptor_gui.py
 ```
