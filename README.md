@@ -26,6 +26,8 @@ The project is structured to provide both a command-line interface (CLI) and a p
 
 ---
 
+⚠️ Educational Use Only This tool is designed for personal data security and educational purposes. It implements standard cryptographic algorithms (AES-256) to protect user privacy. The developer assumes no responsibility for misuse of this software.
+
 ## 🛠️ Installation and Usage
 
 ### Prerequisites
